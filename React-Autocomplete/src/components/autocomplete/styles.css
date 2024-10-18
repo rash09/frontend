@@ -1,0 +1,45 @@
+.container {
+  position: relative;
+  width: 300px;
+  fotn-family: Arial, sans-serif;
+}
+
+.container > input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s;
+  box-sizing: border-box;
+}
+.error,
+.loading {
+  padding: 10px;
+  font-size: 14px;
+  color: red;
+}
+
+.suggestion-list {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-top: none;
+  border-radius: 0 0 5px 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  max-height: 150px;
+  overflow-y: auto;
+  z-index: 10;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  width: 100%;
+}
+
+.suggestion-item {
+  padding: 10px;
+  cursor: pointer;
+}
+.suggestion-item:hover {
+  background-color: #f5f5f5;
+}
