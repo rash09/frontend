@@ -1,0 +1,85 @@
+{
+    "data":[
+       {
+          "homepage":[
+             {
+                "pagename":"Migraine Moods",
+                "titletag":"Migraine Moods | Lundbeck",
+                "metadescription":"Create a unique mood board that evokes the complex experience of migraine, before, during, and after one strikes",
+                "metakeywords":"Migraine mood board, Lundbeck Migraine for Miles"
+             }
+          ],
+          "constructionsight":[
+             {
+                "pagename":"Construction Sight",
+                "titletag":"Hard Hats Required",
+                "metadescription":"Build your Migraine Moods mood board by following this easy, step-by-step guide, then share it on social media.",
+                "progressbar":[
+                   {
+                      "cta1text":"Back",
+                      "cta2text":"Next"
+                   }
+                ],
+                "selectcolor":[
+                   {
+                      "subheading":"First, set the mood",
+                      "body":"Pick a color for your mood board. As you make your way through the steps, you’ll fill your mood board with colors, images, and quotes that best describe certain aspects of your experience with migraine. Simply click(or tap!) the arrow on the right to move to the next step. If you change your mind, you can always revisit asection before you’re finished.",
+                      "colorcodes":[
+                         
+                      ]
+                   }
+                ],
+                "selectmigrane":[
+                   {
+                      "subheading":"Nowselect an image that captures your experience with migraine",
+                      "body":"Once you’ve found an image, give it a click (or a tap!) to see it in your mood board. Feel free to preview as many images as you like before moving on.",
+                      "imagelist":[
+                         
+                      ]
+                   }
+                ],
+                "selectmigranequote":[
+                   {
+                      "subheading":"Nowpick a quote that reflects how you feel during a migraine",
+                      "body":"Found a quote that resonates with you? Click it (or tap it!) to see a preview in the template",
+                      "imagelist":[
+                         
+                      ]
+                   }
+                ],
+                "selectfreemigrane":[
+                   {
+                      "subheading":"Let’s focus on the positive for a moment. Select an image that best captures how you feel when you aren’t experiencing the pain or disability of a migraine",
+                      "body":"",
+                      "imagelist":[
+                         
+                      ]
+                   }
+                ],
+                "hopefulimage":[
+                   {
+                      "subheading":"Finally, let’s finish your mood board with something hopeful. Which image bestsymbolizes something that inspires you?",
+                      "body":"",
+                      "imagelist":[
+                         
+                      ]
+                   }
+                ],
+                "thankyou":[
+                   {
+                      "subheading":"Thank you for creating your Migraine Moods board!",
+                      "body":"You can now go back and make another one,or download your completed mood board to shareon social media. Don’t forget to include #migrainemoodsin your post,andbe sure to check out the mood boards created by others. If you’re interested in learning about migraine prevention, please signupbelow for updates",
+                      "ctatext":"stayintouch",
+                      "socialmedia":[
+                         "classname",
+                         "classname",
+                         "classname"
+                      ],
+                      "socialmediacopy":"I’m never sure that people truly understand when I describe what my experience is like with and without migraine. Now I can actually showthem. #MigraineMoods"
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }
